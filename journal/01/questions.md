@@ -9,7 +9,7 @@
     > pseudo-classes allow you to add a certain style to CSS text. A common one I would use would be hover, being able to style the way my mouse hovers over something to change it in different ways to stand out. 
 
 04. What is ***specificity*** and how might you use it to your benefit?
-    > specificity helps when laying out css because it will assign importance in order of the specificity. HTML. 
+    > specificity helps when laying out css because it will assign importance in order of the specificity. HTML. The specificity uses selectors such as class or id. 
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
     > | ANSWER HERE |
@@ -25,7 +25,7 @@
     > | ANSWER HERE |
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
-    > | ANSWER HERE |
+    > |Good design and layout is everything. A website that isnt neat can become hard to navigate. Making sure accessibility options are available is a great design. Anything of importance on the page needs ro stand out, so adding certain color or text to help people be drawn to that part of the page. 
 
 08. What is the purpose of ***wireframing***?
     > | ANSWER HERE |
