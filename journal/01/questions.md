@@ -9,7 +9,7 @@
     > pseudo-classes allow you to add a certain style to CSS text. A common one I would use would be hover, being able to style the way my mouse hovers over something to change it in different ways to stand out. 
 
 04. What is ***specificity*** and how might you use it to your benefit?
-    > specificity allows you to assign certain categories such as Class, ID and Type which are 3 types of selectors. These are a huge benefit when writing code because they can be used as a reference in CSS and HTML. 
+    > specificity helps when laying out css because it will assign importance in order of the specificity. HTML. 
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
     > | ANSWER HERE |
