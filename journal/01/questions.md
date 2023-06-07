@@ -34,7 +34,7 @@
     > | ANSWER HERE |
 
 10. Define the display `:flex property:`
-    > | ANSWER HERE |
+    > Display flex property allows you to move your code around to make it look better on a page, such as being able to have code flex to different parts of the page over being stacked. 
 
 11. What `CSS` properties affect the size of a box model?
     > | ANSWER HERE |
