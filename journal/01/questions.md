@@ -12,7 +12,7 @@
     > specificity helps when laying out css because it will assign importance in order of the specificity. HTML. The specificity uses selectors such as class or id. 
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
-    > | ANSWER HERE |
+    > using !important, changes the specificity of what you assigned !important too. Overusing it could cause issues if you are always trying to change the specificity. If using bootstrap it may not always work if your documents are not setup correctly.  
 
 06. What are the three components that makeup a `CSS` rule? <br> Example:
 
@@ -22,10 +22,10 @@
         }
     ```
 
-    > | ANSWER HERE |
+    > 3 components of a CSS are selector, property and value. These will define the class and add style depending on what you choose with each component. 
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
-    > |Good design and layout is everything. A website that isnt neat can become hard to navigate. Making sure accessibility options are available is a great design. Anything of importance on the page needs ro stand out, so adding certain color or text to help people be drawn to that part of the page. 
+    > |Good design and layout is everything. A website that isn't neat can become hard to navigate. Making sure accessibility options are available is a great design. Anything of importance on the page needs ro stand out, so adding certain color or text to help people be drawn to that part of the page. 
 
 08. What is the purpose of ***wireframing***?
     > | ANSWER HERE |
