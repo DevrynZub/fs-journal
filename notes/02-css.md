@@ -34,3 +34,17 @@ background images will not have a width due to taking up entire row
 }
 
 background-color: (var--)
+
+write media rules at the bottom, any rules we add in the media rule will occur when the screen is below this size
+
+@media (max-width: 768px){
+.class created{
+    border-left: none
+    border-right: none
+    border-top: px
+    border-bottom: px
+}
+}
+
+
+

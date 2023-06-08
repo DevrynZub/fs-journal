@@ -38,4 +38,7 @@ bootstrap has a lot of utility classes that can be used
     button classes - btn, btn color, 
     section.row>col-12
 
-    
+    Order on mobile: 
+        order-1 (mobile) order-md (desktop)
+        order-2 (mobile) order-md (desktop)
+        order-3 (mobile) order-md (desktop)
