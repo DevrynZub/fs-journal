@@ -20,3 +20,17 @@ object will allow you to make adjustments to the image in different ways
 border-radius adjusts the border of the element 
 font weight adjusts boldness (h1 tag may override making it bolder)
 font size - em for changing size
+
+
+background size: cover will stop images from warping 
+background-position - 
+background-repeat - doesnt repeat 
+background images will not have a width due to taking up entire row
+
+:root sets variables to be used throughout css. Will change all variables in the root throughout the reference of that variable, 
+
+:roo{
+    color-name: #color;
+}
+
+background-color: (var--)
