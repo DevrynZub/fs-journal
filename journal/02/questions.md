@@ -1,11 +1,11 @@
 # Intro to JavaScript
 01. Which keywords are used to declare a variable in JavaScript?
 
-    > | ANSWER HERE |
+    > Var, Let, Const
 
 02. What is the definition of a function?
 
-    > | ANSWER HERE |
+    > A subprogram designed to run a particular task, a block of code we can also run manually as much as we need. 
 
 03. What are the `SOLID` principles?
 
@@ -38,7 +38,7 @@
 
 06. Give an example of a JavaScript `Conditional`:
 
-    > | ANSWER HERE |
+    > conditionals are if or else statments or true/false. A good example would have been during lecture wednesday making the restaurant we used a conditional to see if the customer was ready to check out or now. 
 
 07. What is the main difference between `parameters` and `arguments`?
 
