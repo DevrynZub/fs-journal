@@ -9,7 +9,7 @@
 
 03. What are the `SOLID` principles?
 
-    > | ANSWER HERE |
+    > I was unsure of where to find this, may have overlooked it but didnt know
 
 04. Given this array: How could you remove the `pineapple`?
 
@@ -17,7 +17,7 @@
     let fruit = ['apple', 'banana', 'pineapple', 'orange', 'strawberry']
     ```
 
-    > | ANSWER HERE |
+    > 
 
 05. Given these two objects: How could you add each to the others friends arrays?
 
@@ -34,7 +34,7 @@
     }
     ```
 
-    > 
+    > you.friends.push(them), them.friends.push(you)
 
 06. Give an example of a JavaScript `Conditional`:
 
@@ -50,8 +50,9 @@
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
-    > | ANSWER HERE |
+    > primitive references integers or numbers where as reference would deal more with arrays and objects
 
 10. Demonstrate a loop that prints the numbers between -100 and 100?
 
-    > | ANSWER HERE |
+    > for (let i = 0, <= 100, i++ )
+console.log(i)

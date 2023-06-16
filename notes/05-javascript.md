@@ -67,3 +67,14 @@ let "" = menu(const).find(menuItem => menu.name == 'name of item in array')
   <span>$${menuItem.prince}<span>
 
 
+flex grow allows the main to take up all the remaining flex box allowed
+use query selection which allows the ID to search the html and find what you are looking for
+EX
+  a P tag.
+  setInterval for time in javascript 
+  ex: setInterval (function, milliseconds)
+  
+  switch statement:
+    switch (key = single value){
+ 
+
