@@ -17,7 +17,7 @@
     let fruit = ['apple', 'banana', 'pineapple', 'orange', 'strawberry']
     ```
 
-    > 
+    > I know its the destructive method but I am unsure of how to write it to remove the pineapple. 
 
 05. Given these two objects: How could you add each to the others friends arrays?
 
