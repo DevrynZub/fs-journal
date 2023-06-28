@@ -5,7 +5,7 @@
 
 02. What is an event listener?
 
-  > | ANSWER HERE |
+  > event listeners update code from the controller as things update. 
 
 03. What does *REST* stand for, and in simple terms what does it mean??
 
@@ -25,7 +25,7 @@
 
 07. What does the `API` acronym stand for?
 
-  > | ANSWER HERE |
+  > Application program interface
 
 08. What must you do in order to `await` a promise inside of a function?
 
@@ -41,4 +41,4 @@
 
 11. What is a 400 error?
 
-  > | ANSWER HERE |
+  > the page was not found, it did not load the page and content
