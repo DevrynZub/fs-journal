@@ -43,7 +43,9 @@ update html with details, then move to model and make a template,(cut HTML made)
 Make button to save to sandbox, need post request to send it, add an onclick and make a new controller to deal with it
 
 
-
+query selector make sure to use ?, then define key = "to whatever you need to link such as an api key"
+use parameter object within the axios service: params: ApiKey
+htmlBody - target body to make changes in controller 
 
 
 
