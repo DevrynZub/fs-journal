@@ -3,4 +3,4 @@
 * **[Repo] https://github.com/DevrynZub/vue-playground
 * **[Repo] https://github.com/DevrynZub/Gfis
 * **[Repo] https://github.com/DevrynZub/summer23_gregslistVue
-* **[Repo](https://github.com/DevrynZub/<ASSIGNMENT_REPO>)**
+* **[Repo] hhttps://github.com/DevrynZub/Bloggger
