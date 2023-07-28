@@ -34,3 +34,6 @@ write an axios server to talk to api
 lifecycle hooks
 onmount and onUnmounted to mount the controller 
 setup as export default to start getting API using try catch
+
+
+
